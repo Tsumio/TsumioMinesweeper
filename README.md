@@ -1,2 +1,2 @@
 # TsumioMinesweeper
-Altseed Sample Project.
+Altseedの勉強用に作成したマインスイーパーです。  
